@@ -1,0 +1,54 @@
+{
+    "questions": [
+      {
+        "question": "Your BMI",
+        "options": ["underweight", "healthy weight", "overweight", "obesity","super obesity", "over obesity", "super super obesity"]
+      },
+      {
+        "question": "Do you Smoke?",
+        "options": ["Yes", "No"]
+      },
+      {
+        "question": "Do you drink alcohol?",
+        "options": ["Yes", "No"]
+      },
+      {
+        "question": "Do you have a stroke before?",
+        "options": ["Yes", "No"]
+      },
+      {
+        "question": "Do you have any difficulty walking?",
+        "options": ["Yes", "No"]
+      },
+      {
+        "question": "Your gender?",
+        "options": ["Male", "Female"]
+      },
+      {
+        "question": "Your Age",
+        "options": ["18-24","25-29","30-34","35-39","40-44","45-49","50-54","55-59","60-64", "65-69", "70-74","75-79","80 or older"]
+      },
+      {
+        "question": "Do you have a diabetic?",
+        "options": ["Yes", "No", "pre diabetes"]
+      },
+      {
+        "question": "Do you do physical activity?",
+        "options": ["Yes", "No"]
+      },
+      {
+        "question": "Do you have asthma?",
+        "options": ["Yes", "No"]
+      },
+      {
+        "question": "Do you have high blood pressure?",
+        "options": ["Yes", "No"]
+      },
+      {
+        "question": "Do you have high cholesterol?",
+        "options": ["Yes", "No"]
+      }
+    ]
+  }
+
+ 
